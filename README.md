@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&height=250&section=header&text=Welcome%20to%20YoonJung%20GitHub🖐&fontSize=50&animation=scaleIn)
 ### 안녕하세요! 주니어 프론트엔드 개발자, 홍윤정입니다
 
 
