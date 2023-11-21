@@ -1,11 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&height=250&section=header&text=Welcome%20to%20YoonJung%20GitHub🖐&fontSize=50&animation=scaleIn)
-### 안녕하세요! 주니어 프론트엔드 개발자, 홍윤정입니다
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20YoonJung%20GitHub🖐&fontSize=50&animation=fadeIn&fontAlignY=38&)
 
 
-<div align=left><h2>📚 기술스택</h2></div>
+<div align=center><h2>📚 Tech Stack</h2></div>
 
-<div align=left> 
-  <div align=left><h4>🍀Front-end</h4></div>
+<div align=center> 
+  <div align=center><h4>🍀Front-end</h4></div>
 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -23,20 +22,20 @@
   <img src="https://img.shields.io/badge/RestAPI-F44A53?style=for-the-badge&logo=RestAPI&logoColor=black"> 
   <br>
   
-  <div align=left><h4>🍀Back-end</h4></div>
+  <div align=center><h4>🍀Back-end</h4></div>
  
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <br>
 
-  <div align=left><h4>🍀Database</h4></div>
+  <div align=center><h4>🍀Database</h4></div>
 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
   
-  <div align=left><h4>🍀Collaboration & Tools</h4></div>
+  <div align=center><h4>🍀Collaboration & Tools</h4></div>
 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
