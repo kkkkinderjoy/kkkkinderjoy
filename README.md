@@ -1,8 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20YoonJung%20GitHub🖐&fontSize=50&animation=fadeIn&fontAlignY=38&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20YoonJung%20GitHub🖐&fontSize=50&animation=fadeIn&fontAlignY=38&)
+
+<h4 align="center">
+  안녕하세요! 주니어 프론트엔드 개발자 홍윤정입니다
+</h4>
+<br>
 
 
-<div align=center><h2>📚 Tech Stack 📚</h2></div>
 
+<h3 align="center">📚 Tech Stack 📚</h3>
+<br>
+ 
 <div align=center> 
   <div align=center><h4>🍀Front-end</h4></div>
 
@@ -52,4 +59,13 @@
 </div>
 
 
-<div align=left><h2>☎</h2></div>
+<br>
+
+<h3 align="center"><b>💌 Social 💌 </b></h3>
+</br>
+<p align="center">
+<a href="mailto:dbswjd5562@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dbswjd5562@gmail.com"/></a>
+<a href="https://velog.io/@kkkkinderjoy"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@kkkkinderjoy"/></a>
+</p>
+
+<br>
