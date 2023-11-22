@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20YoonJung%20GitHub🖐&fontSize=50&animation=fadeIn&fontAlignY=38&)
 
 
-<div align=center><h2>📚 Tech Stack</h2></div>
+<div align=center><h2>📚 Tech Stack 📚</h2></div>
 
 <div align=center> 
   <div align=center><h4>🍀Front-end</h4></div>
